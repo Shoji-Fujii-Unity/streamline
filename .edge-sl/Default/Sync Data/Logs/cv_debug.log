@@ -1,0 +1,44 @@
+{"logTime": "1110/070215", "correlationVector":"rONVJYZUpI5AF1q3268KWW.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_japanwest_prod-s01-066-apac-japanwest", "migrationStage":"NotStarted", "server":"aksw25001000005"}}
+{"logTime": "1110/070215", "correlationVector":"rONVJYZUpI5AF1q3268KWW.2","action":"ProcessGetUpdates", "result":"Done", "context":{"dataType":"Encryption Keys", "deleted":"0", "process_failed_to_decrypt":"0", "process_pending_decryption":"0", "process_success":"1", "total":"1"}}
+{"logTime": "1110/070216", "correlationVector":"ZeWbDCVpBc6PepBz/WAot7","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "migrationStage":"", "server":""}}
+{"logTime": "1110/070216", "correlationVector":"ZeWbDCVpBc6PepBz/WAot7.0","action":"EncryptionKeysFetcher.DownloadKeys:", "result":"Success", "context":Key count: 10, Last key timestamp: 2026-07-12T09:04:19Z}
+{"logTime": "1110/070216", "correlationVector":"ZeWbDCVpBc6PepBz/WAot7.1","action":"EncryptionKeysManager::SetEncryptionKeys:", "result":"Success", "context":Key names[10]:[gQ9jJvat90ryaWD3j5a9lKwdgIfM3FYCecurT8NBtbSxBISFevQaFngvvOd8r/zgBYCD/ktD202EZLADt9fzmQ==][5vXCZsj8ZPnGIhyfa09pB8lP98Hc5gX2zhtAtl0n0g4MlK4xKkf+f/HzbyTpHvEGj8gIrHbJ97hc8NjxBq7oSQ==][gGH+8KXnJP9piXMo3tP4/4xzyPkCkbOig8oCMdU2tEE2nAqRakd2uB5QDicVoD3EptTS/vBE8zwihdLRzW6FnA==][MpvtE+5AeEq4+KgcndtqeVGMObDCXYpjJF1BSottkhQj2W5dV4fGI7QpguYaB5fmdHzZifiMTg7XhHk2unXSeA==][XzRfjr81jZyAfky7lhHK/A/+le1vsArOCCRNQ8ay/NU/os8y8YGlSX0w1Ug0efW0jAXfIvgd1nhu4tbe7QfEEQ==][NL30uzkP6Ixyv07Rmtro65Gclm4On4shKYIncIOJyd+LhhCByV/AWWE/YUCixyNZMdthWyWK7ZK3pZQcBw6bkA==][gfIDQ06WBQKMhIV6cexFL/IRYyFPM0zX2gWTC6fHlL/gCd+epV3PTjEYf8A1yQhoWf87dzkPBONsfnlt9bzEJw==][BwRkRk+FeoHBW+TqySB81+e9JmStdIXv8mCl2RP+TU9rmbrskpCglwbUfUAwQe8wH3eYoga9Uzzcv11+uGS2CA==][ag6H6S+dDPzSP2mYJZk1YakXdYinDVPp7O8YenQfoF5CIvHZyu+GbsOch7yuK2Hkh8qtEzyTPr3YFtVcGQSV6w==][ZYcPO1cFYmstU1WN8Mmk8WRF3ta2Jogrj2ifMyicruA1ym+AIpWd0RcQItWEIvPqirx+P/cIp6LCoPnS6ymGzQ==]}
+{"logTime": "1110/070216", "correlationVector":"ZeWbDCVpBc6PepBz/WAot7.2","action":"EncryptionKeysManager::SetEncryptionKeysWithTimestamps:", "result":"Success", "context":Key timestamps[10]:[2022-01-19T10:26:55Z][2022-07-20T08:25:14Z][2023-01-22T20:58:45Z][2023-07-22T06:30:17Z][2024-01-19T01:08:56Z][2024-07-17T02:43:30Z][2025-01-16T00:14:06Z][2025-07-15T07:00:14Z][2026-01-11T07:07:31Z][2026-07-12T09:04:19Z]}
+{"logTime": "1110/070216", "correlationVector":"rONVJYZUpI5AF1q3268KWW","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=rONVJYZUpI5AF1q3268KWW}
+{"logTime": "1110/070216", "correlationVector":"rONVJYZUpI5AF1q3268KWW.3","action":"GetUpdates Response", "result":"Success", "context":Received 1 update(s). cV=rONVJYZUpI5AF1q3268KWW.0;server=aksw25001000005;cloudType=Consumer;environment=Prod_japanwest_prod-s01-066-apac-japanwest;migrationStage=NotStarted}
+{"logTime": "1110/070242", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/070242", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071219", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071219", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071426", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071426", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071527", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071527", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/071557", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/071557", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/072106", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/072106", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/072136", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/072136", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/072609", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/072609", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/072639", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/072639", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/073002", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/073002", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/073032", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/073032", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/073258", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/073258", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/073328", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/073328", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/090058", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/090058", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/091531", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/091531", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/091601", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/091601", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/092726", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/092726", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.30Sec", "result":"Error:7"}
+{"logTime": "1110/092756", "correlationVector":"","action":"Microsoft.Sync.State.UserActionableError.1Min", "result":"Error:7"}
+{"logTime": "1110/092756", "correlationVector":"","action":"Microsoft.Sync.State.Existing.UserActionableError.1Min", "result":"Error:7"}

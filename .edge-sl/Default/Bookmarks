@@ -1,0 +1,103 @@
+{
+   "checksum": "4b880954639514371f55b01ead5bad79",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13240667408881781",
+               "date_last_used": "0",
+               "guid": "262e7ec2-e487-4fd4-a033-332da6f3febf",
+               "id": "8",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www1.jp.dell.com/content/default.aspx?c=jp&l=ja&s=gen",
+               "visit_count": 0
+            }, {
+               "date_added": "13240667408887260",
+               "date_last_used": "0",
+               "guid": "d513ceda-3834-445d-ac5d-de013ccfb666",
+               "id": "9",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/support/home",
+               "visit_count": 0
+            } ],
+            "date_added": "13438767738300117",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "8cf5aeb7-b458-42f4-86b2-9ddad9e0c2ba",
+            "id": "7",
+            "name": "Dell",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13055464173690000",
+               "date_last_used": "0",
+               "guid": "6d8bb77b-6d2e-47e0-8b48-d11579a3fa99",
+               "id": "11",
+               "name": "ガンガンONLINE  SQUARE ENIX",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.ganganonline.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13438767738301624",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "eb2de366-42c3-4677-bc1f-59a4ac932730",
+            "id": "10",
+            "name": "漫画",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13438767732897028",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "お気に入りバー",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13438767732897028",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "その他のお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13438767732897028",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "モバイルのお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13438767732897028",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "ワークスペース",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

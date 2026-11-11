@@ -1,0 +1,171 @@
+2026-11-10 07:02:12.915: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:02:12.976: [INFO][Sync] Try to start sync engine
+2026-11-10 07:02:12.977: [INFO][SyncManagerImpl::NudgeForInitialDownload] Initial download nudge for Encryption Keys
+2026-11-10 07:02:12.977: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:02:12.977: [INFO][SyncEngineBackend::DoInitialize] Control Types added: Encryption Keys
+2026-11-10 07:02:12.977: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download: Encryption Keys with reason: 3
+2026-11-10 07:02:12.977: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Configure job was blocked
+2026-11-10 07:02:14.754: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:02:14.754: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:02:14.754: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:02:14.754: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:02:15.139: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:02:15.139: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:02:15.139: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:02:15.139: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:02:15.139: [INFO][SyncSchedulerImpl::DoConfigurationSyncCycleJob] Blocked types:  and types to download: Encryption Keys
+2026-11-10 07:02:15.974: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:11:49.891: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:11:50.846: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:11:50.846: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:11:50.846: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:11:59.968: [INFO][Sync] Try to start sync engine
+2026-11-10 07:11:59.968: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:11:59.968: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:11:59.968: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:11:59.968: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:11:59.973: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:11:59.973: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:11:59.973: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:11:59.973: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:11:59.973: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:13:56.587: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:13:56.746: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:13:56.746: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:13:56.746: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:14:06.653: [INFO][Sync] Try to start sync engine
+2026-11-10 07:14:06.654: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:14:06.654: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:14:06.654: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:14:06.654: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:14:06.658: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:14:06.658: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:14:06.658: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:14:06.658: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:14:06.658: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:14:57.054: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:14:57.219: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:14:57.219: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:14:57.219: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:15:07.129: [INFO][Sync] Try to start sync engine
+2026-11-10 07:15:07.130: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:15:07.130: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:15:07.130: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:15:07.130: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:15:07.135: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:15:07.135: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:15:07.135: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:15:07.135: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:15:07.135: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:20:36.819: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:20:37.439: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:20:37.439: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:20:37.439: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:20:46.885: [INFO][Sync] Try to start sync engine
+2026-11-10 07:20:46.886: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:20:46.886: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:20:46.886: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:20:46.886: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:20:46.891: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:20:46.891: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:20:46.891: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:20:46.891: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:20:46.891: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:25:39.808: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:25:40.549: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:25:40.549: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:25:40.549: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:25:49.883: [INFO][Sync] Try to start sync engine
+2026-11-10 07:25:49.884: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:25:49.884: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:25:49.884: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:25:49.884: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:25:49.889: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:25:49.889: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:25:49.889: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:25:49.889: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:25:49.889: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:28:27.720: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:28:27.885: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:28:27.885: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:28:27.885: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:28:37.791: [INFO][Sync] Try to start sync engine
+2026-11-10 07:28:37.792: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:28:37.792: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:28:37.792: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:28:37.792: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:28:37.797: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:28:37.797: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:28:37.797: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:28:37.797: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:28:37.797: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:29:32.522: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:29:32.689: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:29:32.689: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:29:32.689: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:29:42.589: [INFO][Sync] Try to start sync engine
+2026-11-10 07:29:42.590: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:29:42.590: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:29:42.590: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:29:42.590: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:29:42.595: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:29:42.595: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:29:42.595: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:29:42.595: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:29:42.595: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:32:28.065: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 07:32:28.804: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:32:28.804: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:32:28.804: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 07:32:38.135: [INFO][Sync] Try to start sync engine
+2026-11-10 07:32:38.136: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 07:32:38.136: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 07:32:38.136: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 07:32:38.137: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 07:32:38.142: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 07:32:38.142: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 07:32:38.142: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 07:32:38.142: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 07:32:38.142: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 09:00:28.842: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 09:00:30.379: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 09:00:30.379: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 09:00:30.379: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 09:00:38.908: [INFO][Sync] Try to start sync engine
+2026-11-10 09:00:38.909: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 09:00:38.909: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 09:00:38.909: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 09:00:38.909: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 09:00:38.914: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 09:00:38.914: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 09:00:38.914: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 09:00:38.914: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 09:00:38.914: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 09:15:01.824: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 09:15:02.525: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 09:15:02.525: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 09:15:02.525: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 09:15:11.902: [INFO][Sync] Try to start sync engine
+2026-11-10 09:15:11.903: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 09:15:11.903: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 09:15:11.903: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 09:15:11.903: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 09:15:11.907: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 09:15:11.907: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 09:15:11.907: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 09:15:11.907: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 09:15:11.907: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 09:26:56.364: [INFO][Sync] SyncState after authenticated was: FeatureNotSetup
+2026-11-10 09:26:57.082: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 09:26:57.082: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 09:26:57.082: [INFO][Sync] Credentials changed for: EdgeSyncKeyDataScope
+2026-11-10 09:27:06.438: [INFO][Sync] Try to start sync engine
+2026-11-10 09:27:06.439: [INFO][SyncEngineBackend::LoadAndConnectNigoriController] Load and connect Nigori controller
+2026-11-10 09:27:06.439: [INFO][SyncEngineBackend::DoInitialize] Control Types added: 
+2026-11-10 09:27:06.439: [INFO][SyncManagerImpl::ConfigureSyncer] Types to download:  with reason: 4
+2026-11-10 09:27:06.439: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
+2026-11-10 09:27:06.444: [INFO][SyncAuthManager::SetLastAuthError] Current auth error: None
+2026-11-10 09:27:06.444: [INFO][SyncAuthManager::EdgeLogTokenErrorState] Token error with: None for account type: MSA
+2026-11-10 09:27:06.444: [INFO][Sync] Credentials changed for: EdgeSyncScopeNew
+2026-11-10 09:27:06.444: [INFO][SyncEngineBackend::DoUpdateCredentials] Update credentials
+2026-11-10 09:27:06.444: [INFO][SyncEngineBackend::DoUpdateKeyDataCredentials] Update key data credentials
